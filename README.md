@@ -39,3 +39,11 @@ Open the /code/ folder and follow the setup instructions in INSTALL.md.
 Use the datasets in /data/ for running the k-means simulations.
 
 Instructors may use /materials/ to guide student activities.
+
+License
+
+All materials are shared under [insert open license, e.g., CC-BY 4.0 or MIT License].
+
+Citation
+
+If you use these resources in your teaching or research, please cite the published version of the paper once available.
