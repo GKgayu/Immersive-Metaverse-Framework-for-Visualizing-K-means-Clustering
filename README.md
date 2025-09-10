@@ -1,0 +1,2 @@
+# Immersive-Metaverse-Framework-for-Visualizing-K-means-Clustering
+Overview:  This repository contains the anonymized dataset, source code, and supplementary teaching materials used in the study “An Immersive Metaverse Framework for Visualizing K-means Clustering in ML Education”. The resources are provided to support reproducibility and to help educators adapt the framework to their own classrooms.
